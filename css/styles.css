@@ -406,6 +406,7 @@ img { box-shadow: #fff 0 0 0 }
 .social_icon.vimeo:before { content: '\e80f'; }
 .social_icon.flickr:before { content: '\e810'; }
 .social_icon.email:before { content: '\e811'; }
+.social_icon.vk:before { content: '\f189'; font-family: FontAwesome; }
 /* =End Galleries
 --------------------------------------------------------------------------------------------------------*/
 
