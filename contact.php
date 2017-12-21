@@ -49,13 +49,13 @@ if(trim($name) == '') {
 
 
 
-$address = 'denisglb@yahoo.co.uk';
+$address = 'gurtskayageorgy@mail.ru';
 
 
 
 $e_subject = 'You\'ve been contacted by ' . $name . '.';
 
-$e_body = "You have been contacted by $name from your contact form, their additional message is as follows." . "\r\n" . "\r\n";
+$e_body = "You have been contacted by $name from your WEB CV's contact form, their additional message is as follows." . "\r\n" . "\r\n";
 
 $e_content = "\"$comments\"" . "\r\n" . "\r\n";
 
